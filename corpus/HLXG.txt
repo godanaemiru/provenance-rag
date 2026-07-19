@@ -1,0 +1,23 @@
+Helix Genomics, Inc. — Fiscal Year 2025 Annual Report
+Sector: Biotechnology | Ticker: HLXG
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Helix Genomics, Inc. (NASDAQ/NYSE: HLXG) operates in the Biotechnology sector. Helix Genomics develops gene-editing therapies for inherited blood disorders, with its lead product Zenovex (an ex vivo CRISPR-based therapy for sickle cell disease) approved in the United States in FY2024. For fiscal year 2025, the Company reported total revenue of $1.42 billion and net income of $-380 million (+46% year over year revenue change). The Company employed approximately 3,900 people as of fiscal year end and invested $740 million in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. One of 340 patients treated commercially with Zenovex since launch experienced a delayed-onset secondary blood cancer in FY2025; the FDA has requested an updated long-term safety monitoring plan, and the Company voluntarily paused new patient enrollment for 45 days while the case was investigated, concluding it was unrelated to the therapy's editing mechanism. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Biotechnology industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $1.42 billion compared to the prior fiscal year reflected a change of +46%. Revenue growth reflects the first full fiscal year of commercial Zenovex sales following its FY2024 approval, with 340 patients treated to date across 28 authorized treatment centers. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $1.42 billion; net income $-380 million; year-over-year revenue change +46%; research and development expense $740 million; total employees 3,900. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Zenovex has been administered to 340 patients across 28 authorized treatment centers in the United States since its FY2024 approval. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

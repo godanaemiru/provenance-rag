@@ -1,0 +1,23 @@
+Cobalt Hospitality Group — Fiscal Year 2025 Annual Report
+Sector: Hotels & Hospitality | Ticker: CBHG
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Cobalt Hospitality Group (NASDAQ/NYSE: CBHG) operates in the Hotels & Hospitality sector. Cobalt Hospitality Group owns and franchises 1,180 hotels across upscale and midscale segments under five brands, with concentrated presence in leisure and convention-center markets. For fiscal year 2025, the Company reported total revenue of $6.9 billion and net income of $510 million (+9% year over year revenue change). The Company employed approximately 33,000 people as of fiscal year end and invested $n/a in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. A data-privacy incident disclosed in FY2025 involving unauthorized access to a third-party reservations vendor exposed guest names, loyalty numbers, and partial payment card data for approximately 2.1 million guests across 140 franchised properties; the Company is named in four related class-action lawsuits. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Hotels & Hospitality industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $6.9 billion compared to the prior fiscal year reflected a change of +9%. Revenue per available room (RevPAR) grew 7% as leisure travel demand remained resilient and the Company completed the conversion of 40 independent hotels to its branded flags during FY2025. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $6.9 billion; net income $510 million; year-over-year revenue change +9%; research and development expense $n/a; total employees 33,000. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+The FY2025 reservations-vendor data-privacy incident affected guests across 140 of Cobalt's 1,180 franchised properties. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

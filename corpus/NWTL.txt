@@ -1,0 +1,23 @@
+Northwave Telecom, Inc. — Fiscal Year 2025 Annual Report
+Sector: Telecommunications | Ticker: NWTL
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Northwave Telecom, Inc. (NASDAQ/NYSE: NWTL) operates in the Telecommunications sector. Northwave Telecom provides wireless, broadband, and fiber services to residential and enterprise customers nationwide, with 5G coverage reaching 82% of the US population at fiscal year end. For fiscal year 2025, the Company reported total revenue of $41.7 billion and net income of $4.02 billion (+2% year over year revenue change). The Company employed approximately 72,500 people as of fiscal year end and invested $1.9 billion in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. Postpaid phone subscriber net additions fell to 410,000 in FY2025 from 1.2 million in FY2024 as a regional competitor's aggressive fixed-wireless promotion drove elevated churn in the Company's southeastern service territory. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Telecommunications industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $41.7 billion compared to the prior fiscal year reflected a change of +2%. Fiber broadband subscriber growth of 640,000 net additions, driven by an expansion of the fiber footprint to 3.2 million additional homes passed, partially offset wireless softness. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $41.7 billion; net income $4.02 billion; year-over-year revenue change +2%; research and development expense $1.9 billion; total employees 72,500. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Northwave's fiber network passed 19.4 million homes at fiscal year end, with a take rate of 38%. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

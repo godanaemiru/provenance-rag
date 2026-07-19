@@ -1,0 +1,23 @@
+Cornerstone Realty Trust — Fiscal Year 2025 Annual Report
+Sector: Commercial Real Estate (REIT) | Ticker: CRLT
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Cornerstone Realty Trust (NASDAQ/NYSE: CRLT) operates in the Commercial Real Estate (REIT) sector. Cornerstone Realty Trust is a REIT owning 214 office and mixed-use properties concentrated in gateway US cities, with a portfolio focus on Class A office space. For fiscal year 2025, the Company reported total revenue of $3.4 billion and net income of $590 million (+2% year over year revenue change). The Company employed approximately 2,100 people as of fiscal year end and invested $n/a in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. Portfolio-wide office occupancy fell to 79.4% at fiscal year end from 85.1% a year earlier, and the Company recorded a $310 million impairment on three San Francisco office properties whose appraised values declined amid persistent remote-work trends. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Commercial Real Estate (REIT) industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $3.4 billion compared to the prior fiscal year reflected a change of +2%. Growth in the Company's logistics and life-sciences property segments, which now represent 22% of net operating income, partially offset office-segment weakness. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $3.4 billion; net income $590 million; year-over-year revenue change +2%; research and development expense $n/a; total employees 2,100. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Cornerstone's three impaired San Francisco properties had a combined pre-impairment carrying value of $890 million. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

@@ -1,0 +1,15 @@
+# Core (always required)
+numpy>=1.24
+
+# Recommended production embedding backend (auto-detected; falls back to the
+# built-in local LSA embedder if unavailable/offline). Requires a normal
+# internet connection on first run to download the model from Hugging Face.
+sentence-transformers>=2.2
+
+# Recommended production vector store (auto-detected; falls back to the
+# built-in numpy vector store if unavailable).
+chromadb>=0.4
+
+# Optional: enables the LLMGenerator backend for fluent (non-extractive)
+# grounded answers. Only needed if you set OPENAI_API_KEY / AZURE_OPENAI_*.
+openai>=1.0

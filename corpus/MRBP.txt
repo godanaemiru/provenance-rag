@@ -1,0 +1,23 @@
+Meridian Biopharma, Inc. — Fiscal Year 2025 Annual Report
+Sector: Pharmaceuticals | Ticker: MRBP
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Meridian Biopharma, Inc. (NASDAQ/NYSE: MRBP) operates in the Pharmaceuticals sector. Meridian Biopharma researches and commercializes therapies for autoimmune and inflammatory diseases, with its flagship product Cerivant (brizukimab) approved in the US, EU, and Japan for moderate-to-severe plaque psoriasis. For fiscal year 2025, the Company reported total revenue of $6.35 billion and net income of $-210 million (+3% year over year revenue change). The Company employed approximately 9,700 people as of fiscal year end and invested $2.41 billion in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. In August 2025 the FDA issued a Complete Response Letter for Meridian's supplemental application seeking to expand Cerivant's label to pediatric patients aged 6-11, citing insufficient long-term safety data from the PEDIGREE-2 trial; the Company does not expect a refiled submission before mid-2026. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Pharmaceuticals industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $6.35 billion compared to the prior fiscal year reflected a change of +3%. The net loss reflects a $540 million upfront payment to license a Phase 2 oral IL-23 inhibitor from a South Korean biotech partner, recorded as an in-process R&D charge in Q3 FY2025. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $6.35 billion; net income $-210 million; year-over-year revenue change +3%; research and development expense $2.41 billion; total employees 9,700. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Cerivant generated $4.1 billion of the Company's total FY2025 revenue, representing 64% of net sales. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

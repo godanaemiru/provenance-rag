@@ -1,0 +1,23 @@
+Harborline Retail Group — Fiscal Year 2025 Annual Report
+Sector: Specialty Retail | Ticker: HRBL
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Harborline Retail Group (NASDAQ/NYSE: HRBL) operates in the Specialty Retail sector. Harborline Retail Group operates 640 home-goods and furniture stores across North America under the Harborline and Coastal & Co. banners, alongside an e-commerce platform representing 28% of total sales. For fiscal year 2025, the Company reported total revenue of $11.2 billion and net income of $398 million (+2% year over year revenue change). The Company employed approximately 61,500 people as of fiscal year end and invested $112 million in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. Same-store sales declined 4.1% in FY2025 as elevated mortgage rates suppressed furniture demand tied to home purchases; the Company closed 38 underperforming stores and recorded a $61 million lease-impairment charge. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Specialty Retail industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $11.2 billion compared to the prior fiscal year reflected a change of +2%. E-commerce revenue grew 19% following the FY2024 rollout of augmented-reality room-planning tools, partially offsetting brick-and-mortar softness. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $11.2 billion; net income $398 million; year-over-year revenue change +2%; research and development expense $112 million; total employees 61,500. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Harborline's largest distribution center, a 1.4 million square foot facility in Reno, Nevada, processes approximately 55% of e-commerce order volume. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

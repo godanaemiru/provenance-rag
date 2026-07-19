@@ -1,0 +1,23 @@
+Harvest & Co. Foods, Inc. — Fiscal Year 2025 Annual Report
+Sector: Food & Beverage | Ticker: HVCF
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Harvest & Co. Foods, Inc. (NASDAQ/NYSE: HVCF) operates in the Food & Beverage sector. Harvest & Co. Foods manufactures packaged snacks, cereals, and frozen foods distributed to grocery, club, and food-service channels across North America and Europe. For fiscal year 2025, the Company reported total revenue of $17.9 billion and net income of $1.36 billion (+2% year over year revenue change). The Company employed approximately 52,400 people as of fiscal year end and invested $290 million in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. An avian influenza outbreak affected two contract egg-supplier farms used by the Company's frozen-breakfast division in FY2025, temporarily reducing egg-product input availability by an estimated 15% for the segment during the second fiscal quarter and requiring the qualification of three backup suppliers. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Food & Beverage industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $17.9 billion compared to the prior fiscal year reflected a change of +2%. Price increases implemented in late FY2024 continued to support margin expansion, though volume across the snacks portfolio declined 1.8% amid value-conscious consumer behavior. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $17.9 billion; net income $1.36 billion; year-over-year revenue change +2%; research and development expense $290 million; total employees 52,400. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Harvest & Co.'s frozen-breakfast division sources shell eggs from 11 contract farms, two of which were affected by the FY2025 avian influenza outbreak. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

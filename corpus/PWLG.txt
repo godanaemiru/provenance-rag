@@ -1,0 +1,23 @@
+Pathway Logistics Corporation — Fiscal Year 2025 Annual Report
+Sector: Freight & Logistics | Ticker: PWLG
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Pathway Logistics Corporation (NASDAQ/NYSE: PWLG) operates in the Freight & Logistics sector. Pathway Logistics operates a nationwide network of truckload, less-than-truckload, and warehousing services, along with a growing parcel-delivery division serving e-commerce retailers. For fiscal year 2025, the Company reported total revenue of $19.7 billion and net income of $880 million (+5% year over year revenue change). The Company employed approximately 58,000 people as of fiscal year end and invested $410 million in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. A ransomware intrusion detected in the Company's warehouse-management systems in October 2025 disrupted order fulfillment at 19 distribution centers for approximately 60 hours; Pathway did not pay the ransom and restored operations from backups, incurring $37 million in incident-response and lost-throughput costs. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Freight & Logistics industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $19.7 billion compared to the prior fiscal year reflected a change of +5%. Parcel-delivery segment revenue grew 27% following new contracts with two major e-commerce retailers, offsetting rate softness in the truckload spot market. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $19.7 billion; net income $880 million; year-over-year revenue change +5%; research and development expense $410 million; total employees 58,000. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Pathway's warehouse-management ransomware incident in October 2025 affected 19 of the Company's 240 distribution centers nationwide. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

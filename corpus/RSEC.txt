@@ -1,0 +1,23 @@
+Redstone Energy Corporation — Fiscal Year 2025 Annual Report
+Sector: Oil & Gas Exploration | Ticker: RSEC
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Redstone Energy Corporation (NASDAQ/NYSE: RSEC) operates in the Oil & Gas Exploration sector. Redstone Energy explores for and produces crude oil and natural gas in the Permian Basin and Gulf of Mexico, operating both onshore unconventional wells and offshore platforms. For fiscal year 2025, the Company reported total revenue of $18.9 billion and net income of $2.86 billion (-6% year over year revenue change). The Company employed approximately 8,400 people as of fiscal year end and invested $204 million in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. A subsea pipeline leak at the Company's Cormorant Deepwater platform in the Gulf of Mexico in May 2025 released an estimated 1,900 barrels of crude before shut-in; Redstone recorded a $187 million environmental remediation and regulatory-fine provision related to the incident. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Oil & Gas Exploration industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $18.9 billion compared to the prior fiscal year reflected a change of -6%. Lower average realized natural gas prices, down 19% year over year, drove the revenue decline despite a 4% increase in total production volumes. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $18.9 billion; net income $2.86 billion; year-over-year revenue change -6%; research and development expense $204 million; total employees 8,400. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Redstone's proved reserves at fiscal year end totaled 2.1 billion barrels of oil equivalent, with a reserve replacement ratio of 118% for the year. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

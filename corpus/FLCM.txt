@@ -1,0 +1,23 @@
+Falcon Motors Corporation — Fiscal Year 2025 Annual Report
+Sector: Automotive Manufacturing | Ticker: FLCM
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Falcon Motors Corporation (NASDAQ/NYSE: FLCM) operates in the Automotive Manufacturing sector. Falcon Motors designs, manufactures, and sells passenger vehicles and light trucks under the Falcon and Aravel brands, with assembly plants in Michigan, Ontario, and Mexico. For fiscal year 2025, the Company reported total revenue of $52.3 billion and net income of $1.98 billion (-4% year over year revenue change). The Company employed approximately 94,000 people as of fiscal year end and invested $3.1 billion in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. In July 2025 Falcon Motors initiated a voluntary recall of 1.3 million model-year 2023-2025 Aravel SUVs due to a brake-booster vacuum-hose defect linked to 14 reported crashes; the Company recorded a $290 million recall-related warranty charge in its fiscal third quarter. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Automotive Manufacturing industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $52.3 billion compared to the prior fiscal year reflected a change of -4%. Revenue declined due to a 60-day production pause at the Ontario assembly plant in Q2 FY2025 related to a wiring-harness supplier shortage. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $52.3 billion; net income $1.98 billion; year-over-year revenue change -4%; research and development expense $3.1 billion; total employees 94,000. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Falcon Motors' battery-electric vehicle sales represented 9.2% of total unit volume in FY2025, up from 6.1% in FY2024. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

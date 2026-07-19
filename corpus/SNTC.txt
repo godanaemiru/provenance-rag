@@ -1,0 +1,23 @@
+Sentinel Cyber Defense Corp. — Fiscal Year 2025 Annual Report
+Sector: Cybersecurity Software | Ticker: SNTC
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Sentinel Cyber Defense Corp. (NASDAQ/NYSE: SNTC) operates in the Cybersecurity Software sector. Sentinel Cyber Defense provides endpoint detection, identity threat protection, and managed security monitoring to enterprise and government customers. For fiscal year 2025, the Company reported total revenue of $3.28 billion and net income of $340 million (+21% year over year revenue change). The Company employed approximately 7,800 people as of fiscal year end and invested $620 million in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. A supply-chain compromise of a widely used open-source logging library, disclosed industry-wide in FY2025, required Sentinel to patch and re-certify 96% of its customer-deployed sensor agents within a 30-day emergency window; the Company identified no evidence that its own systems or customer data were compromised. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Cybersecurity Software industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $3.28 billion compared to the prior fiscal year reflected a change of +21%. Growth was driven by a 38% increase in managed detection and response (MDR) subscriptions following expanded federal government contract awards. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $3.28 billion; net income $340 million; year-over-year revenue change +21%; research and development expense $620 million; total employees 7,800. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Sentinel's federal government segment grew to represent 24% of total revenue in FY2025, up from 17% in FY2024. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

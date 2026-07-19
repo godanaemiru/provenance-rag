@@ -1,0 +1,23 @@
+Vertex Silicon Corporation — Fiscal Year 2025 Annual Report
+Sector: Semiconductor Manufacturing | Ticker: VSXC
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Vertex Silicon Corporation (NASDAQ/NYSE: VSXC) operates in the Semiconductor Manufacturing sector. Vertex Silicon designs and fabricates analog and mixed-signal semiconductors used in automotive power management, industrial sensors, and 5G radio-frequency front ends, operating fabrication plants in Taiwan and Oregon. For fiscal year 2025, the Company reported total revenue of $9.14 billion and net income of $1.47 billion (+7% year over year revenue change). The Company employed approximately 22,900 people as of fiscal year end and invested $1.63 billion in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. A prolonged drought in Taiwan's Hsinchu region during FY2025 reduced ultrapure water allocation to the Company's Fab 4 facility by 30% for eleven weeks, cutting wafer output by an estimated 6% and delaying shipments to two automotive customers. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Semiconductor Manufacturing industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $9.14 billion compared to the prior fiscal year reflected a change of +7%. Growth was constrained by softening consumer electronics demand but partially offset by a 31% increase in automotive power-management chip orders following new design wins with two European automakers. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $9.14 billion; net income $1.47 billion; year-over-year revenue change +7%; research and development expense $1.63 billion; total employees 22,900. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Vertex Silicon holds 1,240 active patents related to gallium nitride (GaN) power transistor design as of fiscal year end. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.

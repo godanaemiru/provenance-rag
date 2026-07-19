@@ -1,0 +1,23 @@
+Ironbridge Utilities, Inc. — Fiscal Year 2025 Annual Report
+Sector: Regulated Electric Utility | Ticker: IRUT
+======================================================================
+
+[[PAGE 1]]
+## Item 1. Business Overview
+Ironbridge Utilities, Inc. (NASDAQ/NYSE: IRUT) operates in the Regulated Electric Utility sector. Ironbridge Utilities is a regulated electric and gas utility serving 3.9 million customers across the Midwest, operating a mix of natural gas, nuclear, and wind generation assets. For fiscal year 2025, the Company reported total revenue of $8.7 billion and net income of $1.02 billion (+3% year over year revenue change). The Company employed approximately 15,600 people as of fiscal year end and invested $n/a in research and development during the year.
+
+[[PAGE 2]]
+## Item 1A. Risk Factors
+Operational and Regulatory Risk. A June 2025 windstorm caused sustained outages for 410,000 customers and downed over 1,100 miles of distribution line; the Company's regulator approved recovery of $96 million of the $140 million restoration cost through a storm-cost rider, with the remaining $44 million disallowed as imprudently incurred. The Company continues to monitor this matter and has implemented corrective actions as described in Item 7. Investors should consider this risk factor alongside general risks common to the Regulated Electric Utility industry, including competitive pressure, input cost inflation, regulatory change, and macroeconomic cyclicality.
+
+[[PAGE 3]]
+## Item 7. Management's Discussion and Analysis (MD&A)
+Fiscal 2025 revenue of $8.7 billion compared to the prior fiscal year reflected a change of +3%. Rate base growth from the Company's grid-modernization program, approved by state regulators in FY2024, contributed the majority of net income growth. Management believes the Company's underlying operating trends remain consistent with its multi-year strategic plan, and it continues to monitor the risk factor described in Item 1A for further financial statement impact in future periods.
+
+[[PAGE 4]]
+## Item 8. Financial Highlights
+The following selected figures are derived from the Company's audited financial statements for fiscal year 2025: total revenue $8.7 billion; net income $1.02 billion; year-over-year revenue change +3%; research and development expense $n/a; total employees 15,600. These figures should be read together with the notes to the financial statements below.
+
+[[PAGE 5]]
+## Notes to Financial Statements
+Ironbridge's Fairfield Nuclear Generating Station operating license was renewed for an additional 20 years by the Nuclear Regulatory Commission in FY2025. Except as otherwise noted, all figures in this report are presented on a US GAAP basis for the fiscal year ended 2025. This report was prepared for internal corpus-testing purposes as part of a retrieval-augmented generation benchmark and is not an actual regulatory filing.
