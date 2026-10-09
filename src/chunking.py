@@ -57,7 +57,7 @@ def _split_long_section(text, max_words=MAX_CHUNK_WORDS, overlap=OVERLAP_WORDS):
 
 
 def parse_document(path):
-    with open(path, "r") as f:
+    with open(path, "r", encoding="utf-8") as f:
         raw = f.read()
 
     lines = raw.splitlines()

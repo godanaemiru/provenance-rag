@@ -34,6 +34,12 @@ REFUSAL_MESSAGE = (
 SIM_THRESHOLD = 0.20  # tuned empirically against ~17 in-corpus and out-of-corpus
                        # probe queries; see README "Threshold calibration" section
                        # for the score distribution and the known edge-case gap.
+                       # This is the LSA (offline fallback) value.
+
+# MiniLM scores sit higher: in-corpus 0.51-0.68, out-of-corpus 0.36-0.40
+# (domain-adjacent questions like "Tesla's revenue" reach ~0.53 and are left
+# to the LLM grounding prompt to refuse).
+TRANSFORMER_SIM_THRESHOLD = 0.45
 
 
 def _sentence_split(text):
@@ -99,7 +105,15 @@ class LLMGenerator:
     )
 
     def __init__(self):
-        if os.environ.get("AZURE_OPENAI_API_KEY"):
+        if os.environ.get("GROQ_API_KEY"):
+            # Groq exposes an OpenAI-compatible API, so the same client works.
+            from openai import OpenAI
+            self.client = OpenAI(
+                api_key=os.environ["GROQ_API_KEY"].strip(),
+                base_url="https://api.groq.com/openai/v1",
+            )
+            self.model = os.environ.get("GROQ_MODEL", "openai/gpt-oss-120b").strip()
+        elif os.environ.get("AZURE_OPENAI_API_KEY"):
             from openai import AzureOpenAI
             self.client = AzureOpenAI(
                 api_key=os.environ["AZURE_OPENAI_API_KEY"],

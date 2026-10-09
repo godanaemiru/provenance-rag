@@ -47,7 +47,7 @@ def main():
 
     transcript = "\n".join(out_lines)
     out_path = os.path.join(os.path.dirname(__file__), "demo_transcript.md")
-    with open(out_path, "w") as f:
+    with open(out_path, "w", encoding="utf-8") as f:
         f.write(transcript)
     print(transcript)
     print(f"\n[demo] transcript written to {out_path}")

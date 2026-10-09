@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from chunking import load_corpus
 from embeddings import get_embedder, LocalLSAEmbedder, TransformerEmbedder
 from vector_store import get_store
-from generate import get_generator, answer_query, SIM_THRESHOLD
+from generate import get_generator, answer_query, SIM_THRESHOLD, TRANSFORMER_SIM_THRESHOLD
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 EMBEDDER_STATE_PATH = os.path.join(DATA_DIR, "embedder_state.pkl")
@@ -62,7 +62,9 @@ def load_pipeline(embedder_prefer="auto", store_prefer="auto"):
     return embedder, store
 
 
-def ask(query, embedder, store, generator, top_k=5, threshold=SIM_THRESHOLD, verbose=True):
+def ask(query, embedder, store, generator, top_k=5, threshold=None, verbose=True):
+    if threshold is None:
+        threshold = SIM_THRESHOLD if isinstance(embedder, LocalLSAEmbedder) else TRANSFORMER_SIM_THRESHOLD
     q_emb = embedder.embed_one(query)
     retrieved = store.query(q_emb, top_k=top_k)
     result = answer_query(query, retrieved, generator, threshold=threshold)
